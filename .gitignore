@@ -1,0 +1,13 @@
+
+# Mac OS X
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+node_modules
+
+# Windows
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
